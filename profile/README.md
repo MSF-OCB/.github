@@ -1,6 +1,6 @@
-# Who is MSF?
+# About Médecins Sans Frontières
 
-MSF (Médecins Sans Frontières, or Doctors Without Borders) is a humanitarian organisation that provides medical assistance to people affected by conflict, epidemics, disasters, or exclusion from healthcare.
+Médecins Sans Frontières (aka MSF, or Doctors Without Borders) is a humanitarian organisation that provides medical assistance to people affected by conflict, epidemics, disasters, or exclusion from healthcare.
 
 Our teams are made up of tens of thousands of health professionals, logistic and administrative staff - most of them hired locally. Our actions are guided by medical ethics and the principles of impartiality, independence and neutrality. We are a non-profit, self-governed, member-based organisation.
 
